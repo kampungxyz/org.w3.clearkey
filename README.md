@@ -1,0 +1,12 @@
+```
+{
+   "keys":[
+      {
+         "kty":"oct",
+         "k":"aBcDeFgHiJkMnOpQrStUvWxYz",
+         "kid":"aBcDeFgHiJkMnOpQrStUvWxYz"
+      }
+   ],
+   "type":"temporary"
+}
+```
